@@ -1,0 +1,204 @@
+1001 │ Start Blade │ Thường
+1002 │ Start Blade │ Thường
+1003 │ Start Blade │ Thường
+2001 │ Start Blade │ Cao
+2002 │ Start Blade │ Cao
+2003 │ Start Blade │ Cao
+3001 │ Start Blade │ Hiếm
+3002 │ Start Blade │ Hiếm
+3003 │ Start Blade │ Hiếm
+4001 │ Start Blade │ Anh Hùng
+4002 │ Start Blade │ Anh Hùng
+4003 │ Start Blade │ Anh Hùng
+5001 │ Start Blade │ Huyền Thoại
+5002 │ Start Blade │ Huyền Thoại
+5003 │ Start Blade │ Huyền Thoại
+1004 │ Tháp Cung Băng │ Thường
+1005 │ Tháp Cung Băng │ Thường
+1006 │ Tháp Cung Băng │ Thường
+2004 │ Tháp Cung Băng │ Cao
+2005 │ Tháp Cung Băng │ Cao
+2006 │ Tháp Cung Băng │ Cao
+3004 │ Tháp Cung Băng │ Hiếm
+3005 │ Tháp Cung Băng │ Hiếm
+3006 │ Tháp Cung Băng │ Hiếm
+4004 │ Tháp Cung Băng │ Anh Hùng
+4005 │ Tháp Cung Băng │ Anh Hùng
+4006 │ Tháp Cung Băng │ Anh Hùng
+5004 │ Tháp Cung Băng │ Huyền Thoại
+5005 │ Tháp Cung Băng │ Huyền Thoại
+5006 │ Tháp Cung Băng │ Huyền Thoại
+1007 │ Tháp Phép Thuật │ Thường
+1008 │ Tháp Phép Thuật │ Thường
+1009 │ Tháp Phép Thuật │ Thường
+2007 │ Tháp Phép Thuật │ Cao
+2008 │ Tháp Phép Thuật │ Cao
+2009 │ Tháp Phép Thuật │ Cao
+3007 │ Tháp Phép Thuật │ Hiếm
+3008 │ Tháp Phép Thuật │ Hiếm
+3009 │ Tháp Phép Thuật │ Hiếm
+4007 │ Tháp Phép Thuật │ Anh Hùng
+4008 │ Tháp Phép Thuật │ Anh Hùng
+4009 │ Tháp Phép Thuật │ Anh Hùng
+5007 │ Tháp Phép Thuật │ Huyền Thoại
+5008 │ Tháp Phép Thuật │ Huyền Thoại
+5009 │ Tháp Phép Thuật │ Huyền Thoại
+1010 │ Tháp Sát Thủ │ Thường
+1011 │ Tháp Sát Thủ │ Thường
+1012 │ Tháp Sát Thủ │ Thường
+2010 │ Tháp Sát Thủ │ Cao
+2011 │ Tháp Sát Thủ │ Cao
+2012 │ Tháp Sát Thủ │ Cao
+3010 │ Tháp Sát Thủ │ Hiếm
+3011 │ Tháp Sát Thủ │ Hiếm
+3012 │ Tháp Sát Thủ │ Hiếm
+4010 │ Tháp Sát Thủ │ Anh Hùng
+4011 │ Tháp Sát Thủ │ Anh Hùng
+4012 │ Tháp Sát Thủ │ Anh Hùng
+5010 │ Tháp Sát Thủ │ Huyền Thoại
+5011 │ Tháp Sát Thủ │ Huyền Thoại
+5012 │ Tháp Sát Thủ │ Huyền Thoại
+1013 │ Tháp Doanh Trại │ Thường
+1014 │ Tháp Doanh Trại │ Thường
+1015 │ Tháp Doanh Trại │ Thường
+2013 │ Tháp Doanh Trại │ Cao
+2014 │ Tháp Doanh Trại │ Cao
+2015 │ Tháp Doanh Trại │ Cao
+3013 │ Tháp Doanh Trại │ Hiếm
+3014 │ Tháp Doanh Trại │ Hiếm
+3015 │ Tháp Doanh Trại │ Hiếm
+4013 │ Tháp Doanh Trại │ Anh Hùng
+4014 │ Tháp Doanh Trại │ Anh Hùng
+4015 │ Tháp Doanh Trại │ Anh Hùng
+5013 │ Tháp Doanh Trại │ Huyền Thoại
+5014 │ Tháp Doanh Trại │ Huyền Thoại
+5015 │ Tháp Doanh Trại │ Huyền Thoại
+1016 │ Tháp Sét │ Thường
+1017 │ Tháp Sét │ Thường
+1018 │ Tháp Sét │ Thường
+2016 │ Tháp Sét │ Cao
+2017 │ Tháp Sét │ Cao
+2018 │ Tháp Sét │ Cao
+3016 │ Tháp Sét │ Hiếm
+3017 │ Tháp Sét │ Hiếm
+3018 │ Tháp Sét │ Hiếm
+4016 │ Tháp Sét │ Anh Hùng
+4017 │ Tháp Sét │ Anh Hùng
+4018 │ Tháp Sét │ Anh Hùng
+5016 │ Tháp Sét │ Huyền Thoại
+5017 │ Tháp Sét │ Huyền Thoại
+5018 │ Tháp Sét │ Huyền Thoại
+1019 │ Tháp Gai │ Thường
+1020 │ Tháp Gai │ Thường
+1021 │ Tháp Gai │ Thường
+2019 │ Tháp Gai │ Cao
+2020 │ Tháp Gai │ Cao
+2021 │ Tháp Gai │ Cao
+3019 │ Tháp Gai │ Hiếm
+3020 │ Tháp Gai │ Hiếm
+3021 │ Tháp Gai │ Hiếm
+4019 │ Tháp Gai │ Anh Hùng
+4020 │ Tháp Gai │ Anh Hùng
+4021 │ Tháp Gai │ Anh Hùng
+5019 │ Tháp Gai │ Huyền Thoại
+5020 │ Tháp Gai │ Huyền Thoại
+5021 │ Tháp Gai │ Huyền Thoại
+6019 │ Tháp Gai │ Thần Thoại
+6020 │ Tháp Gai │ Thần Thoại
+6021 │ Tháp Gai │ Thần Thoại
+1022 │ Tháp Pháo │ Thường
+1023 │ Tháp Pháo │ Thường
+1024 │ Tháp Pháo │ Thường
+2022 │ Tháp Pháo │ Cao
+2023 │ Tháp Pháo │ Cao
+2024 │ Tháp Pháo │ Cao
+3022 │ Tháp Pháo │ Hiếm
+3023 │ Tháp Pháo │ Hiếm
+3024 │ Tháp Pháo │ Hiếm
+4022 │ Tháp Pháo │ Anh Hùng
+4023 │ Tháp Pháo │ Anh Hùng
+4024 │ Tháp Pháo │ Anh Hùng
+5022 │ Tháp Pháo │ Huyền Thoại
+5023 │ Tháp Pháo │ Huyền Thoại
+5024 │ Tháp Pháo │ Huyền Thoại
+1025 │ Tháp Nữ Tu │ Thường
+1026 │ Tháp Nữ Tu │ Thường
+1027 │ Tháp Nữ Tu │ Thường
+2025 │ Tháp Nữ Tu │ Cao
+2026 │ Tháp Nữ Tu │ Cao
+2027 │ Tháp Nữ Tu │ Cao
+3025 │ Tháp Nữ Tu │ Hiếm
+3026 │ Tháp Nữ Tu │ Hiếm
+3027 │ Tháp Nữ Tu │ Hiếm
+4025 │ Tháp Nữ Tu │ Anh Hùng
+4026 │ Tháp Nữ Tu │ Anh Hùng
+4027 │ Tháp Nữ Tu │ Anh Hùng
+5025 │ Tháp Nữ Tu │ Huyền Thoại
+5026 │ Tháp Nữ Tu │ Huyền Thoại
+5027 │ Tháp Nữ Tu │ Huyền Thoại
+6025 │ Tháp Nữ Tu │ Thần Thoại
+6026 │ Tháp Nữ Tu │ Thần Thoại
+6027 │ Tháp Nữ Tu │ Thần Thoại
+4028 │ Tháp Sói │ Anh Hùng
+4029 │ Tháp Sói │ Anh Hùng
+4030 │ Tháp Sói │ Anh Hùng
+5028 │ Tháp Sói │ Huyền Thoại
+5029 │ Tháp Sói │ Huyền Thoại
+5030 │ Tháp Sói │ Huyền Thoại
+6028 │ Tháp Sói │ Thần Thoại
+6029 │ Tháp Sói │ Thần Thoại
+6030 │ Tháp Sói │ Thần Thoại
+7028 │ Tháp Sói │ Thần Thoại+
+7029 │ Tháp Sói │ Thần Thoại+
+7030 │ Tháp Sói │ Thần Thoại+
+4031 │ Tháp Dơi │ Anh Hùng
+4032 │ Tháp Dơi │ Anh Hùng
+4033 │ Tháp Dơi │ Anh Hùng
+5031 │ Tháp Dơi │ Huyền Thoại
+5032 │ Tháp Dơi │ Huyền Thoại
+5033 │ Tháp Dơi │ Huyền Thoại
+6031 │ Tháp Dơi │ Thần Thoại
+6032 │ Tháp Dơi │ Thần Thoại
+6033 │ Tháp Dơi │ Thần Thoại
+5034 │ Tháp Mai │ Huyền Thoại
+5035 │ Tháp Mai │ Huyền Thoại
+5036 │ Tháp Mai │ Huyền Thoại
+6034 │ Tháp Mai │ Thần Thoại
+6035 │ Tháp Mai │ Thần Thoại
+6036 │ Tháp Mai │ Thần Thoại
+7034 │ Tháp Hoa Mai │ Thần Thoại+
+7035 │ Tháp Hoa Mai │ Thần Thoại+
+7036 │ Tháp Hoa Mai │ Thần Thoại+
+5037 │ Tháp Hoa Lan │ Huyền Thoại
+5038 │ Tháp Hoa Lan │ Huyền Thoại
+5039 │ Tháp Hoa Lan │ Huyền Thoại
+6037 │ Tháp Hoa Lan │ Thần Thoại
+6038 │ Tháp Hoa Lan │ Thần Thoại
+6039 │ Tháp Hoa Lan │ Thần Thoại
+7037 │ Tháp Lan │ Thần Thoại+
+7038 │ Tháp Lan │ Thần Thoại+
+7039 │ Tháp Lan │ Thần Thoại+
+5040 │ Tháp Hoa Cúc │ Huyền Thoại
+5041 │ Tháp Hoa Cúc │ Huyền Thoại
+5042 │ Tháp Hoa Cúc │ Huyền Thoại
+6040 │ Tháp Hoa Cúc │ Thần Thoại
+6041 │ Tháp Hoa Cúc │ Thần Thoại
+6042 │ Tháp Hoa Cúc │ Thần Thoại
+7040 │ Tháp Hoa Cúc │ Thần Thoại+
+7041 │ Tháp Hoa Cúc │ Thần Thoại+
+7042 │ Tháp Hoa Cúc │ Thần Thoại+
+5043 │ Tháp Tre │ Huyền Thoại
+5044 │ Tháp Tre │ Huyền Thoại
+5045 │ Tháp Tre │ Huyền Thoại
+6043 │ Tháp Tre │ Thần Thoại
+6044 │ Tháp Tre │ Thần Thoại
+6045 │ Tháp Tre │ Thần Thoại
+7043 │ Tháp Tre │ Thần Thoại+
+7044 │ Tháp Tre │ Thần Thoại+
+7045 │ Tháp Tre │ Thần Thoại+
+5046 │ Tháp Quạ Đen │ Huyền Thoại
+5047 │ Tháp Quạ Đen │ Huyền Thoại
+5048 │ Tháp Quạ Đen │ Huyền Thoại
+6046 │ Tháp Quạ Đen │ Thần Thoại
+6047 │ Tháp Quạ Đen │ Thần Thoại
+6048 │ Tháp Quạ Đen │ Thần Thoại
