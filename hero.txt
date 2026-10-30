@@ -1,0 +1,119 @@
+👤 Nameless ID 1-3:
+    ID 1 : Kéo
+    ID 2 : Búa
+    ID 3 : Bao
+
+🐲 Rồng ID 4-6:
+    ID 4 : Kéo
+    ID 5 : Búa
+    ID 6 : Bao
+
+🕋 Lùn ID 7-9:
+    ID 7 : Kéo
+    ID 8 : Búa
+    ID 9 : Bao
+
+🧙‍♂️ Mer ID 10-12:
+    ID 10 : Kéo
+    ID 11 : Búa
+    ID 12 : Bao
+
+🏹 Robin ID 13-15:
+    ID 13 : Kéo
+    ID 14 : Búa
+    ID 15 : Bao
+
+⚔️ Knight ID 16-18:
+    ID 16 : Kéo
+    ID 17 : Búa
+    ID 18 : Bao
+
+🌸 Anna ID 19-21:
+    ID 19 : Kéo
+    ID 20 : Búa
+    ID 21 : Bao
+
+📜 Log ID 22-24:
+    ID 22 : Kéo
+    ID 23 : Búa
+    ID 24 : Bao
+
+🔮 Elias ID 25-27:
+    ID 25 : Kéo
+    ID 26 : Búa
+    ID 27 : Bao
+
+🗡️ Pyke ID 28-30:
+    ID 28 : Kéo
+    ID 29 : Búa
+    ID 30 : Bao
+
+🐺 Sói ID 31-33:
+    ID 31 : Kéo
+    ID 32 : Búa
+    ID 33 : Bao
+
+🐍 Rắn ID 34-36:
+    ID 34 : Kéo
+    ID 35 : Búa
+    ID 36 : Bao
+
+⛓️ Loli ID 37-39:
+    ID 37 : Kéo
+    ID 38 : Búa
+    ID 39 : Bao
+
+🌺 Gibong ID 40-42:
+    ID 40 : Kéo
+    ID 41 : Búa
+    ID 42 : Bao
+
+🐣 ACE ID 43-45:
+    ID 43 : Kéo
+    ID 44 : Búa
+    ID 45 : Bao
+
+👾 Hell Knight ID 46-48:
+    ID 46 : Kéo
+    ID 47 : Búa
+    ID 48 : Bao
+
+🌙 Nancheon ID 49-51:
+    ID 49 : Kéo
+    ID 50 : Búa
+    ID 51 : Bao
+
+💫 Dalma ID 52-54:
+    ID 52 : Kéo
+    ID 53 : Búa
+    ID 54 : Bao
+
+🌙 Nancheon ID 55-57:
+    ID 55 : Kéo
+    ID 56 : Búa
+    ID 57 : Bao
+
+🐺 Wolfking ID 58-60:
+    ID 58 : Kéo
+    ID 59 : Búa
+    ID 60 : Bao
+
+🐍 Snake ID 61-63:
+    ID 61 : Kéo
+    ID 62 : Búa
+    ID 63 : Bao
+
+🌪️ Taesic ID 64-66:
+    ID 64 : Kéo
+    ID 65 : Búa
+    ID 66 : Bao
+
+🐇 LunarRabbit ID 67-69:
+    ID 67 : Kéo
+    ID 68 : Búa
+    ID 69 : Bao
+
+👑 TheKing ID 70-72:
+    ID 70 : Kéo
+    ID 71 : Búa
+    ID 72 : Bao
